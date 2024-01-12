@@ -4,7 +4,7 @@ Change Variables Depend On Your Usage
 
 ```python
 Username = "admin"
-Password = "12156645"
+Password = "121"
 Api_url = 'https://domain.com:1234/api'  # Replace with the actual API URL
 Base_name = 'H_play'  # Base name for the new users
 Start_number = MD.226  # Start number for the new users
